@@ -1,0 +1,1 @@
+Для запуска под Linux используем команду: python -m gunicorn wsgi:app
